@@ -1,0 +1,17 @@
+Manifest-Version:.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: jianyong.shaojy
+Build-Jdk:.6.0_10-rc2
+Class-Path: xml.dom4j-1.6.1.jar sourceforge.jaxen-1.1.jar sourceforge.
+ saxpath-1.0.jar htmlunit-2.8.jar xalan-2.7.1.jar serializer-2.7.1.jar
+  xml-apis-1.3.04.jar commons-collections-3.2.1.jar commons-lang-2.4.j
+ ar httpclient-4.0.1.jar httpcore-4.0.1.jar commons-logging-1.1.1.jar 
+ commons-codec-1.4.jar httpmime-4.0.1.jar apache-mime4j-0.6.jar htmlun
+ it-core-js-2.8.jar xercesImpl-2.9.1.jar nekohtml-1.9.14.jar cssparser
+ -0.9.5.jar sac-1.3.jar commons-io-1.4.jar fastjson-1.0.3.jar jakarta.
+ velocity-1.6.4.jar jakarta.oro-0.0.0.jar org.apache.poi.ooxml-3.8.jar
+  org.apache.poi-3.8.jar jakarta.commons.logging-1.1.jar jakarta.log4j
+ -1.2.13.jar org.apache.poi.ooxml-schemas-3.8.jar apache.xml.xmlbeans-
+.3.0.jar xml.stax-1.0.1.jar xml.apis-0.0.0.jar
+
